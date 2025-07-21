@@ -4,7 +4,7 @@
 
 ---
 
-## 🔴 Problem
+## 🛑 Problem
 
 Problem description goes here.
 
