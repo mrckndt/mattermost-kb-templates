@@ -1,4 +1,4 @@
-**Applies to:** Product Name v1.0 and later
+**Applies to:** Product Name v1.0 and later \
 **Symptoms:** Brief description of symptoms
 
 ---
